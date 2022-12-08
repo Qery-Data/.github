@@ -4,5 +4,5 @@ Qery is a Norwegian data analysis start-up. We specialise in using a variety of 
 
 Get in touch to discuss custom data analysis and visualizations, or if you have any suggestions of comments about our work.
 
-Homepage: Qery.no
-Instagram: https://www.instagram.com/statsandgraphs/
+[Qery.no](https://qery.no)
+[Instagram](https://www.instagram.com/statsandgraphs/)
